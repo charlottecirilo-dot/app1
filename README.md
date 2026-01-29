@@ -1,1 +1,1 @@
-# app1
+# this is an example of lesson 2
